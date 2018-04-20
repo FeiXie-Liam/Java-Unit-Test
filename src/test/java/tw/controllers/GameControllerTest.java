@@ -26,7 +26,7 @@ public class GameControllerTest {
 
         gameController.beginGame();
 
-        String expectedOutput = "------Guess Number Game, You have 6 chances to guess!  ------\r\n";
+        String expectedOutput = "------Guess Number Game, You have 6 chances to guess!  ------\n";
         assertThat(systemOut.toString(), is(expectedOutput));
     }
 
