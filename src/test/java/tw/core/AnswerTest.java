@@ -4,7 +4,6 @@ import org.junit.Before;
 import org.junit.Test;
 import tw.core.model.Record;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 import static org.hamcrest.core.Is.is;
