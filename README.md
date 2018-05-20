@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/FeiXie-Liam/Java-Unit-Test.svg?branch=dev)](https://travis-ci.org/FeiXie-Liam/Java-Unit-Test)
+[![Build Status](https://travis-ci.org/FeiXie-Liam/Java-Unit-Test.svg?branch=master)](https://travis-ci.org/FeiXie-Liam/Java-Unit-Test)
 # Unit Test基础
 
 ## 练习描述
